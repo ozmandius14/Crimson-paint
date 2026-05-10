@@ -1,2 +1,2 @@
-<h1>Crimson paint<h1/>
+<h1 align="center">Crimson paint<h1/>
 ——————————————————————————
