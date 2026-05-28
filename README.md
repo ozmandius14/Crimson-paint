@@ -3,4 +3,4 @@
 
 | Feature  | Current status |
 | -------- | -------------- |
-| Server | The codespace that has it is not avalable|
+| Server| The codespace that has it is not avalable|
