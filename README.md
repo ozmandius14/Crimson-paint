@@ -1,7 +1,7 @@
 <h1 align="center">Crimson paint</h1>
 &emsp;This game is a WIP (work in progress) top-down shooter, it will include multiplayer, singleplayer, the server is open source, and it includes server-side mods.
 
-&emsp;| Feature  | Current status                                        |
+&emsp; | Feature  | Current status                                        |
 | -------- | ----------------------------------------------------- |
 | Server | The codespace that has it is not avalable, 3 days left. |
 | Frontend | Bro I'm probally getting someone else to do ts.       |
