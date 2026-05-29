@@ -1,5 +1,5 @@
 # Crimson paint
-This game is a WIP (work in progress) top-down shooter, it will include multiplayer, singleplayer, the server is open source, and it includes server-side mods.
+Crimson paint is a WIP (work in progress) top-down shooter, it will include multiplayer, singleplayer, the server is open source, and it includes server-side mods.
 
 | Feature  | Current status                                                |
 | -------- | ------------------------------------------------------------- |
