@@ -3,7 +3,7 @@ This game is a WIP (work in progress) top-down shooter, it will include multipla
 
 | Feature  | Current status                                                |
 | -------- | ------------------------------------------------------------- |
-| Server | The codespace that has it is not avalable, wait untill June.    |
+| Server | The codespace that has it is not avalable, 2 days left.         |
 | Frontend | Bro I'm probally getting someone else to do ts.               |
 | Possable alteretives to frontend | I found a HTML based game engine      |
 
