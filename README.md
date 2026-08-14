@@ -3,7 +3,7 @@ Crimson paint is a WIP (work in progress) top-down shooter, it will include mult
 
 | Feature  | Current status                                                |
 | -------- | ------------------------------------------------------------- |
-| Server | The codespace that has it is not avalable, 2 days left.         |
+| Server | The codespace that has it is not available, 2 days left.         |
 | Frontend | Bro I'm probally getting someone else to do ts.               |
 | Possable alteretives to frontend | I found a HTML based game engine      |
 
